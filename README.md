@@ -1,8 +1,10 @@
 ## Hey there! I am Arroyo
-<a href="https://www.linkedin.com/in/leonardoarroyo/">
-  <img alt="Leonardo Arroyo LinkedIn" style="height: 22px; vertical-align: down; margin: 4px" src="https://raw.githubusercontent.com/leonardoarroyo/leonardoarroyo/master/images/logo-linkedin.svg" />
-</a>
-<img alt="Leonardo Arroyo README visitor count" style="vertical-align: down; margin: 4px" src="https://visitor-badge.glitch.me/badge?page_id=leonardoarroyo.github" />
+<p>
+  <a href="https://www.linkedin.com/in/leonardoarroyo/">
+    <img alt="Leonardo Arroyo LinkedIn" style="height: 22px; vertical-align: down; margin: 4px" src="https://raw.githubusercontent.com/leonardoarroyo/leonardoarroyo/master/images/logo-linkedin.svg" />
+  </a>
+  <img alt="Leonardo Arroyo README visitor count" style="vertical-align: down; margin: 4px" src="https://visitor-badge.glitch.me/badge?page_id=leonardoarroyo.github" />
+</p>
 
 --------------------------
 

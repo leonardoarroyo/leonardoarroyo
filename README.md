@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hey there! I am Arroyo
+<a href="https://www.linkedin.com/in/leonardoarroyo/">
+  <img alt="Leonardo Arroyo LinkedIn" style="height: 22px; vertical-align: down; margin: 4px" src="https://raw.githubusercontent.com/leonardoarroyo/leonardoarroyo/master/images/logo-linkedin.svg" />
+</a>
+<img alt="Leonardo Arroyo README visitor count" style="vertical-align: down; margin: 4px" src="https://visitor-badge.glitch.me/badge?page_id=leonardoarroyo.github" />
 
-<!--
-**leonardoarroyo/leonardoarroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------
 
-Here are some ideas to get you started:
+### professional stack
+<p>
+<img src="https://github.com/leonardoarroyo/leonardoarroyo/raw/master/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://github.com/leonardoarroyo/leonardoarroyo/raw/master/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
+<img src="https://github.com/leonardoarroyo/leonardoarroyo/raw/master/images/logo-python.svg" height="40" style="vertical-align:down; margin:4px" alt="python">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### hobbyist/would love the chance to put in production
+<p>
+<img src="https://github.com/leonardoarroyo/leonardoarroyo/raw/master/images/logo-haskell.svg" height="40" style="vertical-align:down; margin:4px" alt="haskell">
+<img src="https://github.com/leonardoarroyo/leonardoarroyo/raw/master/images/logo-clojure.svg" height="40" style="vertical-align:down; margin:4px" alt="clojure">
+<img src="https://github.com/leonardoarroyo/leonardoarroyo/raw/master/images/logo-elixir.svg" height="40" style="vertical-align:down; margin:4px" alt="elixir">
+</p>
+
+----------------------
+
+![leonardoarroyo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoarroyo&show_icons=true&count_private=true&theme=dracula)
